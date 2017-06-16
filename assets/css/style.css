@@ -1,1 +1,25 @@
-style.css
+body{
+	background-image: url('../img/brooke-lark-275181.jpg');
+	background-position: center;
+	background-size: cover;
+}
+
+#formulario{
+	margin: 15%;
+	border-radius: 7px;
+	padding: 5%;
+	background-color: rgba(255,255,255,0.3);
+}
+
+.form-group label{
+	color: #FFFFFF;
+}
+
+#datos, #data{
+	color: #4E4E4E;
+	font-weight: 600;
+}
+
+.btn-primary{
+	margin: 2%;
+}
